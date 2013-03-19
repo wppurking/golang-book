@@ -4,7 +4,7 @@
 
 ### 看书
  * English：[golang-book-en](<en/README.md>)
- * 中&nbsp;&nbsp;&nbsp;&nbsp;文：[golang-book-cn](<cn/README.md>)
+ * 中&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文：[golang-book-cn](<cn/README.md>)
 
 ### 书籍
 原书地址：[golang-book](http://www.golang-book.com/)
