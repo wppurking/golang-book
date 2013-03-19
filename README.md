@@ -5,3 +5,7 @@
 原书地址：[golang-book](http://www.golang-book.com/)
 
 这个只是一个个人的学习项目，如有其它需求，请联系原作者。
+
+## 看书
+English：[golang-book](<en/README.md>)
+中文   ：[golang-book](<cn/README.md>)
